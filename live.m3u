@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="test" tvg-name="AFinity Live" group-title="Live",AFinity Live
+http://76.13.3.23/hls/test.m3u8
